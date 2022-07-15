@@ -1,0 +1,69 @@
+.container{
+    
+    width: 200px;
+    border: 4px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    
+    
+    /* flex-flow: row; */
+}
+.box1{
+    
+    background-color: aqua;
+    width: 56px;
+    
+
+
+}
+.box2{
+   width: 23px;
+    background-color: chartreuse;
+}
+.box3{
+   width: 599px;
+    background-color: royalblue;
+    
+   
+}
+.box4{
+   width: 134px;
+background-color: blue;
+}
+
+.container{
+    
+    width: 200px;
+    border: 4px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    
+    
+    /* flex-flow: row; */
+}
+.box1{
+    
+    background-color: aqua;
+    width: 56px;
+    
+
+
+}
+.box2{
+   width: 23px;
+    background-color: chartreuse;
+}
+.box3{
+   width: 599px;
+    background-color: royalblue;
+    
+   
+}
+.box4{
+   width: 134px;
+background-color: blue;
+}
+
+/* gdivyagoyal@gmail.com */
